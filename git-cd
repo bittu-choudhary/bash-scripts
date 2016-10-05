@@ -1,0 +1,4 @@
+
+branchName=`git rev-parse --symbolic-full-name --abbrev-ref HEAD`
+commitDiff=`git log dev..$branchName --pretty=oneline | wc -l`
+echo "Your branch is ahead of dev by $commitDiff commit(s)"
