@@ -1,4 +1,5 @@
-
+# this git command will give you No of commits difference between current branch and dev branch
+# git cd
 branchName=`git rev-parse --symbolic-full-name --abbrev-ref HEAD`
 commitDiff=`git log dev..$branchName --pretty=oneline | wc -l`
 echo "Your branch is ahead of dev by $commitDiff commit(s)"
