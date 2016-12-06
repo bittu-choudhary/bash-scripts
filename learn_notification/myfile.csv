@@ -1,0 +1,40 @@
+Status code,100,Continue,Informational
+Status code,101,Switching Protocols,Informational
+Status code,200,OK,Successful
+Status code,201,Created,Successful
+Status code,202,Accepted,Successful
+Status code,203,Non-Authoritative Information,Successful
+Status code,204,No Content,Successful
+Status code,205,Reset Content,Successful
+Status code,206,Partial Content,Successful
+Status code,300,Multiple Choices,Redirection
+Status code,301,Moved Permanently,Redirection
+Status code,302,Found,Redirection
+Status code,303,See Other,Redirection
+Status code,304,Not Modified,Redirection
+Status code,305,Use Proxy,Redirection
+Status code,307,Temporary Redirect,Redirection
+Status code,400,Bad Request,Client Error
+Status code,401,Unauthorized,Client Error
+Status code,402,Payment Required,Client Error
+Status code,403,Forbidden,Client Error
+Status code,404,Not Found,Client Error
+Status code,405,Method Not Allowed,Client Error
+Status code,406,Not Acceptable,Client Error
+Status code,407,Proxy Authentication Required,Client Error
+Status code,408,Request Timeout,Client Error
+Status code,409,Conflict,Client Error
+Status code,410,Gone,Client Error
+Status code,411,Length Required,Client Error
+Status code,412,Precondition Failed,Client Error
+Status code,413,Request Entity Too Large,Client Error
+Status code,414,Request-URI Too Long,Client Error
+Status code,415,Unsupported Media Type,Client Error
+Status code,416,Requested Range Not Satisfiable,Client Error
+Status code,417,Expectation Failed,Client Error
+Status code,500,Internal Server Error,Server Error
+Status code,501,Not Implemented,Server Error
+Status code,502,Bad Gateway,Server Error
+Status code,503,Service Unavailable,Server Error
+Status code,504,Gateway Timeout,Server Error
+Status code,505,HTTP Version Not Supported,Server Error
