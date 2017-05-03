@@ -1,3 +1,6 @@
+This script run over .csv files and show content in mac notifications.
+use case: reminder, new commands, shortcuts, terminologies etc. They will keep popinh in your eyes. 
+
 How to run : 
 1. Pull/Download repo.
 2. Add your data in .csv file
